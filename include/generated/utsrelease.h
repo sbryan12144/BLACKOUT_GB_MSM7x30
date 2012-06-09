@@ -1,0 +1,1 @@
+#define UTS_RELEASE "2.6.35.14-BLACKOUT-ACE-GB-v1.0"
